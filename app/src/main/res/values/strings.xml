@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="increment_button_label">+</string>
+    <string name="decrement_button_label">-</string>
+    <string name="price_label">Price</string>
+    <string name="order_label">Order</string>
+    <string name="name_hint">Name</string>
+    <string name="toppings_label">Toppings</string>
+    <string name="whipped_cream_label">Whipped Cream</string>
+    <string name="chocolate_label">Chocolate</string>
+    <string name="no_name_error">Name cannot be empty</string>
+    <string name="order_subject">JustJava Order for %1$s</string>
+    <string name="order_text">Name : %1$s
+        \nAdd whipped cream ? %2$s
+        \nAdd chocolate ? %3$s
+        \nQuantity : %4$s
+        \nTotal : %5$s
+        \nThank you!</string>
+</resources>
